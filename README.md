@@ -26,7 +26,7 @@ All credits for this project goes to Bro Code.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Cool9Gamer789/Weather-App.git
 cd weather-app
 ```
 
